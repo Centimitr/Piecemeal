@@ -1,0 +1,21 @@
+{
+  "name": "piecemeal",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Centimitr <Centimitr@Gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Centimitr/Piecemeal",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cyako.js": "*"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "cyako.js",
+  "description": "Cyako in frontend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C api in frontend",
+  "main": "cyako.js",
+  "authors": [
+    "Cyako Author"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "cyako"
+  ],
+  "homepage": "https://github.com/Cyako/Cyako.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "bd7e53cb59",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bd7e53cb593dab8b486030b9ca7f719465e31f35"
+  },
+  "_source": "https://github.com/Cyako/Cyako.js.git",
+  "_target": "*",
+  "_originalSource": "cyako.js"
+}
