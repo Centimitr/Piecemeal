@@ -1,2 +1,2 @@
 export * from './environment';
-export * from './piecemeal.component';
+export * from './app.component';

@@ -1,0 +1,10 @@
+sidebar{
+    flex: 1;
+    min-width: 160px;
+    max-width:260px;
+    background-color: #f6f6f6;
+    border-right: 1px solid #ddd;
+    height: 100%;
+    overflow: hidden;
+    cursor: default;
+}
