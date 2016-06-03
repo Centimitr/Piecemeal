@@ -46,7 +46,6 @@ System.config({
     '@angular': 'vendor/@angular',
     'rxjs': 'vendor/rxjs',
     'main': 'main.js',
-//  'cyako':'vendor/cyako.js'
   },
   packages: cliSystemConfigPackages
 });
